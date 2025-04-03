@@ -48,11 +48,10 @@ chmod +x shell-scanner.pl
 # Eksesusi
 perl shell-scanner.pl
 
-# Sistem geneline kurulmuşsa
-shell-scanner
+
 ```
 
-### Örnek Çıktı
+### Sample Tools
 
 ```
 ╔═══════════════════════════════════════════╗
