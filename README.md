@@ -62,7 +62,7 @@ perl shell-scanner.pl
 Contoh: www.example.com veya http://example.com
  -> example.com
 
-[*] Scanning Running: https://seo-bone.pro/
+[*] Scanning Running: http://example.com
 [*] Waktu Koneksi Habis: 5 saniye
 [*] Mohon Ditunggu Bujang...
 
