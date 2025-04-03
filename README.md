@@ -34,17 +34,17 @@ Shell Scanner adalah alat pemindaian yang dikembangkan untuk mendeteksi potensi 
 cpan HTTP::Request LWP::UserAgent Term::ANSIColor Time::HiRes
 
 # Cloning Repository
-git clone https://github.com/frkndncr/shell-scanner.git
-cd shell-scanner
+git clone https://github.com/drian-o/ScannerSHEL-Perl.git
+cd ScannerSHEL-Perl
 
-# Aracı çalıştırılabilir yapın
+# Eksekusi tools PERL
 chmod +x shell-scanner.pl
 ```
 
-## 🚀 Kullanım
+## 🚀 Cara Kerja
 
 ```bash
-# Doğrudan çalıştırma
+# Eksesusi
 perl shell-scanner.pl
 
 # Sistem geneline kurulmuşsa
