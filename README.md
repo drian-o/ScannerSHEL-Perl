@@ -84,18 +84,8 @@ shell-scanner
 [+] Toplam 2 shell bulundu.
 ```
 
-## 🔒 Yasal Uyarı
+## 🔒 Perlu Di Perhatikan
 
-Bu araç, **YALNIZCA** kendi sunucunuzu ve yetkilendirildiğiniz sistemleri test etmek için kullanılmalıdır. İzin almadan başkalarının sistemlerini taramak yasadışı olabilir. Bu aracın kötüye kullanımından doğacak herhangi bir sonuçtan geliştirici sorumlu değildir.
+Alat ini harus digunakan **HANYA** untuk menguji server dan sistem Anda sendiri yang Anda izinkan. Memindai sistem orang lain tanpa izin mungkin ilegal. Pengembang tidak bertanggung jawab atas segala akibat yang timbul akibat penyalahgunaan alat ini.
 
-## 🤝 Katkıda Bulunma
-
-1. Fork edin
-2. Özellik branch'i oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik: kısa açıklama'`)
-4. Branch'inize push edin (`git push origin yeni-ozellik`)
-5. Pull Request oluşturun
-
-## 📜 Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+## Tools dapat bekerja 100% menggunakan OS Kali Linux 
