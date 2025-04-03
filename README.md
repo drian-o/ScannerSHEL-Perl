@@ -1,10 +1,11 @@
 # Shell Scanner
 
-![resim](https://github.com/user-attachments/assets/bf559926-ef1f-4484-8146-fddec480b327)
+![image](https://github.com/user-attachments/assets/ae7aaab1-0a80-411d-b00b-05ef7dde6b21)
 
 
 
-## 🔍 Genel Bakış
+
+## 🔍 Deskripsi
 
 Shell Scanner adalah alat pemindaian yang dikembangkan untuk mendeteksi potensi shell web PHP di server web. WSO dapat mengidentifikasi C99, R57, Alpha dan jenis shell populer lainnya dan menggunakan sistem verifikasi lanjutan untuk meminimalkan kesalahan positif.
 
