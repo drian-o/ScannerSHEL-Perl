@@ -6,34 +6,34 @@
 
 ## 🔍 Genel Bakış
 
-Shell Scanner, web sunucularında potansiyel PHP web shell'leri tespit etmek için geliştirilmiş bir tarama aracıdır. WSO, C99, R57, Alfa ve diğer popüler shell tiplerini tanımlayabilir ve yanlış pozitifleri en aza indirmek için gelişmiş bir doğrulama sistemi kullanır.
+Shell Scanner adalah alat pemindaian yang dikembangkan untuk mendeteksi potensi shell web PHP di server web. WSO dapat mengidentifikasi C99, R57, Alpha dan jenis shell populer lainnya dan menggunakan sistem verifikasi lanjutan untuk meminimalkan kesalahan positif.
 
-## ✨ Özellikler
+## ✨ Future
 
-- **Gelişmiş Shell Tespiti**: WSO, C99, R57, Alfa, B374K ve daha fazla shell tipini otomatik tanıma
-- **Yanlış Pozitif Azaltma**: 404 sayfası karşılaştırma, ana sayfa analizi ve içerik kontrolü
-- **Kategorilere Ayrılmış Sonuçlar**: Bulunan shell'leri türlerine göre sınıflandırma
-- **Sonuç Kaydetme**: Bulunan shell'leri metin dosyasına kaydetme
-- **Özelleştirilebilir Zaman Aşımı**: Bağlantı zaman aşımı değerini ayarlama
+- **Deteksi Shell Tingkat Lanjut**: Pengenalan otomatis WSO, C99, R57, Alfa, B374K, dan jenis shell lainnya
+- **Pengurangan Positif Palsu**: perbandingan 404 halaman, analisis beranda, dan kontrol konten
+- **Hasil yang Dikategorikan**: Mengklasifikasikan cangkang yang ditemukan berdasarkan jenisnya
+- **Menyimpan Hasil**: Menyimpan shell yang ditemukan ke file teks
+- **Batas Waktu yang Dapat Disesuaikan**: Tetapkan nilai batas waktu koneksi
 
-## 📋 Gereksinimler
+## 📋 Disklaimer
 
-- Perl 5.10 veya üstü
-- Aşağıdaki Perl modülleri:
-  - HTTP::Request
-  - LWP::UserAgent
-  - Term::ANSIColor
-  - Time::HiRes
+  - Perl 5.10 atau lebih tinggi
+  - Modul Perl berikut:
+  - HTTP::Permintaan
+  - LWP::Agen Pengguna
+  - Istilah::ANSIColor
+  - Waktu :: HiRes
 
-## 🔧 Kurulum
+## 🔧 Setting
 
-### Manuel Kurulum
+### Instalasi Manual
 
 ```bash
-# Gereken Perl modüllerini yükleyin
+# Install modul Prel yang diperlukan
 cpan HTTP::Request LWP::UserAgent Term::ANSIColor Time::HiRes
 
-# Repoyu klonlayın
+# Cloning Repository
 git clone https://github.com/frkndncr/shell-scanner.git
 cd shell-scanner
 
