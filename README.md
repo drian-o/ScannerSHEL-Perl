@@ -56,23 +56,23 @@ shell-scanner
 
 ```
 ╔═══════════════════════════════════════════╗
-║            SHELL SCANNER v2.0             ║
-║          Web Shell Tarama Aracı           ║
+║            SHELL SCANNER v2.1             ║
+║          Web Shell Drian                  ║
 ╚═══════════════════════════════════════════╝
 
-Örnek: www.example.com veya http://example.com
+Contoh: www.example.com veya http://example.com
  -> example.com
 
-[*] Tarama başlatılıyor: http://example.com/
-[*] Zaman aşımı: 10 saniye
-[*] Lütfen bekleyin...
+[*] Scanning Running: https://seo-bone.pro/
+[*] Waktu Koneksi Habis: 5 saniye
+[*] Mohon Ditunggu Bujang...
 
 [+] Shell Bulundu (WSO): http://example.com/wso.php
 [+] Shell Bulundu (MINI_SHELL): http://example.com/mini.php
 
-[*] Tarama tamamlandı. Süre: 5.23 saniye.
+[*] Pemindaian selesai. Durasi: 5.23 saniye.
 
-[+] Bulunan Shell'ler (2):
+[+] Shell Dapat (2):
 ============================================================
 
 [+] WSO Shell'ler (1):
@@ -82,7 +82,7 @@ shell-scanner
 [+] http://example.com/mini.php (458 bytes)
 
 ============================================================
-[+] Toplam 2 shell bulundu.
+[+] Total Shell yang didapat.
 ```
 
 ## 🔒 Perlu Di Perhatikan
